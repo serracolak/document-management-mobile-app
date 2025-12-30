@@ -28,49 +28,50 @@ Uygulamanın çalışma mantığı ve teknik detayları aşağıdaki PDF dosyas�
 
 ## Amaç
 Bu projenin amacı, görsel olarak zenginleştirilmiş bir arayüz ile kullanıcı etkileşimini artıran ve temel belge yönetimi işlevlerini sunan bir mobil uygulama geliştirmektir.
+
 ## 📸 Ekran Görüntüleri
 
 ### 🔐 Giriş Ekranı
-![Giriş Ekranı](./screenshots/login.jpeg)
+![Giriş Ekranı](./screenshots/login1.jpeg)
 
 ### 📝 Kayıt Ekranı
-![Kayıt Ekranı](./screenshots/register.jpeg)
+![Kayıt Ekranı](./screenshots/register1.jpeg)
 
 ### 📂 Dosya Listesi
-![Dosya Listesi](./screenshots/file_list.jpeg)
+![Dosya Listesi](./screenshots/file_list1.jpeg)
 
-### 📄 Dosya Detayı
-![Dosya Detayı](./screenshots/file_detail_page.jpeg)
+### 📄 Dosya Detay Sayfası
+![Dosya Detayı](./screenshots/file_detail_page1.jpeg)
 
 ### ✏️ Dosya İsmi Değiştirme
-![Dosya İsmi Değiştirme](./screenshots/rename_file.jpeg)
+![Dosya İsmi Değiştirme](./screenshots/rename_file1.jpeg)
 
 ### ⚠️ Dosya İşlemi Onayı
-![Dosya İşlemi Onayı](./screenshots/confirm_file_action.jpeg)
+![Dosya İşlemi Onayı](./screenshots/confirm_file_action1.jpeg)
 
 ### 🖊️ Belge Düzenleme
-![Belge Düzenleme](./screenshots/document_editor.jpeg)
+![Belge Düzenleme](./screenshots/document_editor1.jpeg)
 
 ### 🔄 Detay Güncelleme
-![Detay Güncelleme](./screenshots/update_detail_page.jpeg)
+![Detay Güncelleme](./screenshots/update_detail_page1.jpeg)
 
 ### 📧 E-posta Doğrulama
-![E-posta Doğrulama](./screenshots/verify_email.png)
+![E-posta Doğrulama](./screenshots/verify_email1.png)
 
 ### 🔁 Doğrulama E-postasını Tekrar Gönderme
-![Doğrulama Tekrar Gönder](./screenshots/resend_email_verification.jpeg)
+![Doğrulama Tekrar Gönder](./screenshots/resend_email_verification1.jpeg)
 
 ### 🔑 Şifre Sıfırlama Talebi
-![Şifre Sıfırlama Talebi](./screenshots/password_reset_request.jpeg)
+![Şifre Sıfırlama Talebi](./screenshots/password_reset_request1.jpeg)
 
 ### 📩 Şifre Sıfırlama E-postası
-![Şifre Sıfırlama E-postası](./screenshots/password_reset_email.jpeg)
+![Şifre Sıfırlama E-postası](./screenshots/password_reset_email1.jpeg)
 
 ### 👁️ Şifre Görünürlüğü Kapalı
-![Şifre Kapalı](./screenshots/password_hidden.jpeg)
+![Şifre Kapalı](./screenshots/password_hidden1.jpeg)
 
 ### 👁️ Şifre Görünürlüğü Açık
-![Şifre Açık](./screenshots/password_visible.jpeg)
+![Şifre Açık](./screenshots/password_visible1.jpeg)
 
 ### Şifre Görünür
 ![Şifre Açık](./screenshots/password_visible.jpeg)
