@@ -27,21 +27,45 @@ Uygulamanın çalışma mantığı ve teknik detayları aşağıdaki PDF dosyas�
 Bu projenin amacı, görsel olarak zenginleştirilmiş bir arayüz ile kullanıcı etkileşimini artıran ve temel belge yönetimi işlevlerini sunan bir mobil uygulama geliştirmektir.
 ## Ekran Görüntüleri
 
+### Giriş
+![Giriş](./screenshots/login.jpeg)
+
 ### Kayıt
-![Register](./screenshots/register.jpg)
+![Kayıt](./screenshots/register.jpeg)
 
 ### Dosya Listesi
-![File List](./screenshots/file_list.jpg)
+![Dosya Listesi](./screenshots/file_list.jpeg)
 
 ### Dosya Detayı
-![File Detail](./screenshots/file_detail.jpg)
+![Dosya Detayı](./screenshots/file_detail_page.jpeg)
 
 ### Dosya İsmi Değiştirme
-![Rename File](./screenshots/rename_file.jpg)
+![İsim Değiştir](./screenshots/rename_file.jpeg)
+
+### Dosya İşlemi Onayı
+![Onay](./screenshots/confirm_file_action.jpeg)
+
+### Belge Düzenleme
+![Belge Düzenleme](./screenshots/document_editor.jpeg)
+
+### Detay Güncelleme
+![Güncelleme](./screenshots/update_detail_page.jpeg)
 
 ### E-posta Doğrulama
-![Email Verification](./screenshots/verify_email.jpg)
+![E-posta Doğrulama](./screenshots/verify_email.png)
 
-### Şifre Sıfırlama
-![Password Reset](./screenshots/password_reset.jpg)
+### Doğrulama Tekrar Gönder
+![Tekrar Gönder](./screenshots/resend_email_verification.jpeg)
+
+### Şifre Sıfırlama Talebi
+![Şifre Sıfırlama](./screenshots/password_reset_request.jpeg)
+
+### Şifre Sıfırlama E-postası
+![Şifre Sıfırlama E-postası](./screenshots/password_reset_email.jpeg)
+
+### Şifre Görünür
+![Şifre Açık](./screenshots/password_visible.jpeg)
+
+### Şifre Gizli
+![Şifre Kapalı](./screenshots/passw)
 
