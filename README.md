@@ -28,6 +28,49 @@ Uygulamanın çalışma mantığı ve teknik detayları aşağıdaki PDF dosyas�
 
 ## Amaç
 Bu projenin amacı, görsel olarak zenginleştirilmiş bir arayüz ile kullanıcı etkileşimini artıran ve temel belge yönetimi işlevlerini sunan bir mobil uygulama geliştirmektir.
+## 📸 Ekran Görüntüleri
+
+### 🔐 Giriş Ekranı
+![Giriş Ekranı](./screenshots/login.jpeg)
+
+### 📝 Kayıt Ekranı
+![Kayıt Ekranı](./screenshots/register.jpeg)
+
+### 📂 Dosya Listesi
+![Dosya Listesi](./screenshots/file_list.jpeg)
+
+### 📄 Dosya Detayı
+![Dosya Detayı](./screenshots/file_detail_page.jpeg)
+
+### ✏️ Dosya İsmi Değiştirme
+![Dosya İsmi Değiştirme](./screenshots/rename_file.jpeg)
+
+### ⚠️ Dosya İşlemi Onayı
+![Dosya İşlemi Onayı](./screenshots/confirm_file_action.jpeg)
+
+### 🖊️ Belge Düzenleme
+![Belge Düzenleme](./screenshots/document_editor.jpeg)
+
+### 🔄 Detay Güncelleme
+![Detay Güncelleme](./screenshots/update_detail_page.jpeg)
+
+### 📧 E-posta Doğrulama
+![E-posta Doğrulama](./screenshots/verify_email.png)
+
+### 🔁 Doğrulama E-postasını Tekrar Gönderme
+![Doğrulama Tekrar Gönder](./screenshots/resend_email_verification.jpeg)
+
+### 🔑 Şifre Sıfırlama Talebi
+![Şifre Sıfırlama Talebi](./screenshots/password_reset_request.jpeg)
+
+### 📩 Şifre Sıfırlama E-postası
+![Şifre Sıfırlama E-postası](./screenshots/password_reset_email.jpeg)
+
+### 👁️ Şifre Görünürlüğü Kapalı
+![Şifre Kapalı](./screenshots/password_hidden.jpeg)
+
+### 👁️ Şifre Görünürlüğü Açık
+![Şifre Açık](./screenshots/password_visible.jpeg)
 
 ### Şifre Görünür
 ![Şifre Açık](./screenshots/password_visible.jpeg)
