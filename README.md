@@ -22,7 +22,8 @@ Uygulama arayüzünde arka planda kar yağışı animasyonu ve doğa temalı bir
 
 Uygulamanın çalışma mantığı ve teknik detayları aşağıdaki PDF dosyasında açıklanmıştır:
 
-- 📄 [Proje Açıklama Dokümanı](docs/proje_aciklamasi2.pdf)
+- 📄 [Proje Açıklaması](proje_aciklamasi2.pdf)
+
 
 
 ## Amaç
