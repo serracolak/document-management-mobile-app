@@ -67,5 +67,5 @@ Bu projenin amacı, görsel olarak zenginleştirilmiş bir arayüz ile kullanıc
 ![Şifre Açık](./screenshots/password_visible.jpeg)
 
 ### Şifre Gizli
-![Şifre Kapalı](./screenshots/passw)
+![Şifre Kapalı](./screenshots/password_hidden.jpeg)
 
