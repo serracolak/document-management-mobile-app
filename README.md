@@ -28,42 +28,42 @@ Uygulamanın çalışma mantığı ve teknik detayları aşağıdaki PDF dosyas�
 
 ## Amaç
 Bu projenin amacı, görsel olarak zenginleştirilmiş bir arayüz ile kullanıcı etkileşimini artıran ve temel belge yönetimi işlevlerini sunan bir mobil uygulama geliştirmektir.
-## Ekran Görüntüleri
+## 📸 Ekran Görüntüleri
 
-### Giriş
-![Giriş](./screenshots/login.jpeg)
+### 🔐 Giriş Ekranı
+![Giriş Ekranı](./screenshots/login.jpeg)
 
-### Kayıt
-![Kayıt](./screenshots/register.jpeg)
+### 📝 Kayıt Ekranı
+![Kayıt Ekranı](./screenshots/register.jpeg)
 
-### Dosya Listesi
+### 📂 Dosya Listesi
 ![Dosya Listesi](./screenshots/file_list.jpeg)
 
-### Dosya Detayı
+### 📄 Dosya Detayı
 ![Dosya Detayı](./screenshots/file_detail_page.jpeg)
 
-### Dosya İsmi Değiştirme
-![İsim Değiştir](./screenshots/rename_file.jpeg)
+### ✏️ Dosya İsmi Değiştirme
+![Dosya İsmi Değiştirme](./screenshots/rename_file.jpeg)
 
-### Dosya İşlemi Onayı
-![Onay](./screenshots/confirm_file_action.jpeg)
+### ⚠️ Dosya İşlemi Onayı
+![Dosya İşlemi Onayı](./screenshots/confirm_file_action.jpeg)
 
-### Belge Düzenleme
+### 🖊️ Belge Düzenleme
 ![Belge Düzenleme](./screenshots/document_editor.jpeg)
 
-### Detay Güncelleme
-![Güncelleme](./screenshots/update_detail_page.jpeg)
+### 🔄 Detay Güncelleme
+![Detay Güncelleme](./screenshots/update_detail_page.jpeg)
 
-### E-posta Doğrulama
+### 📧 E-posta Doğrulama
 ![E-posta Doğrulama](./screenshots/verify_email.png)
 
-### Doğrulama Tekrar Gönder
-![Tekrar Gönder](./screenshots/resend_email_verification.jpeg)
+### 🔁 Doğrulama E-postasını Tekrar Gönderme
+![Doğrulama Tekrar Gönder](./screenshots/resend_email_verification.jpeg)
 
-### Şifre Sıfırlama Talebi
-![Şifre Sıfırlama](./screenshots/password_reset_request.jpeg)
+### 🔑 Şifre Sıfırlama Talebi
+![Şifre Sıfırlama Talebi](./screenshots/password_reset_request.jpeg)
 
-### Şifre Sıfırlama E-postası
+### 📩 Şifre Sıfırlama E-postası
 ![Şifre Sıfırlama E-postası](./screenshots/password_reset_email.jpeg)
 
 ### Şifre Görünür
