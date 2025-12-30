@@ -19,9 +19,11 @@ Uygulama arayüzünde arka planda kar yağışı animasyonu ve doğa temalı bir
 - Firebase Firestore
 
 ## Proje Dokümantasyonu
+
 Uygulamanın çalışma mantığı ve teknik detayları aşağıdaki PDF dosyasında açıklanmıştır:
 
-- `docs/proje_aciklamasi2.pdf`
+- 📄 [Proje Açıklama Dokümanı](docs/proje_aciklamasi2.pdf)
+
 
 ## Amaç
 Bu projenin amacı, görsel olarak zenginleştirilmiş bir arayüz ile kullanıcı etkileşimini artıran ve temel belge yönetimi işlevlerini sunan bir mobil uygulama geliştirmektir.
