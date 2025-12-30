@@ -73,9 +73,5 @@ Bu projenin amacı, görsel olarak zenginleştirilmiş bir arayüz ile kullanıc
 ### 👁️ Şifre Görünürlüğü Açık
 ![Şifre Açık](./screenshots/password_visible1.jpeg)
 
-### Şifre Görünür
-![Şifre Açık](./screenshots/password_visible.jpeg)
 
-### Şifre Gizli
-![Şifre Kapalı](./screenshots/password_hidden.jpeg)
 
